@@ -1,12 +1,12 @@
 import { Box, Text } from "@chakra-ui/react";
-import Link from "next/link";
+import { LanguageSwitcher } from "next-export-i18n";
 
 const LangItem = ({ text, locale }: { text: string; locale: string }) => (
-  <Link href="/" locale={locale}>
+  <LanguageSwitcher lang={locale}>
     <Text cursor="pointer" as="span" color="whiteAlpha.900">
       {text}
     </Text>
-  </Link>
+  </LanguageSwitcher>
 );
 
 const Lang = () => (
