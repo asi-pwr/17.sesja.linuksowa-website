@@ -1,5 +1,5 @@
 import { Button, ButtonProps } from "@chakra-ui/react";
-import useTranslation from "next-translate/useTranslation";
+import { useTranslation } from "next-export-i18n";
 
 const DefaultButton = (props: ButtonProps & { text: string }) => {
   const { t } = useTranslation("common");

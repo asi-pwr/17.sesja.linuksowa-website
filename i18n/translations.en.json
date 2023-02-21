@@ -1,0 +1,31 @@
+{
+    "send": "Send!",
+    "formName": "First and last name",
+    "writeToUs": "Contact us",
+    "email": "email",
+    "message": "Message",
+    "formPlaceholder": "Questions? Suggestions? Write them here!",
+    "messageSendSuccess": "Message sent!",
+    "messageSendFailed": "Something went wrong. Contact us on kontakt@sesja.linuksowa.pl",
+    "seeLastEdition": "See previous talks",
+    "goToRecordings": "SEE RECORDINGS",
+    "ytPlaylist": "https://www.youtube-nocookie.com/embed/videoseries?list=PLTvZBPQxCI8GGvYbi-irgyNAptXKWXJWl",
+    "youtubeIframeTitle": "16 Sesja Linuksowa",
+    "previousEditionUrl": "https://16.sesja.linuksowa.pl/",
+    "eventLocation": "Event location",
+    "title": "17 Linux Session",
+    "eventDate": " 22-23 April 2023 Wrocław, Poland",
+    "seeAgenda": "SEE AGENDA",
+    "eventLocationDetails": [
+        "Wrocław University of Science and Technology",
+        "Building D-20",
+        "Congress Center",
+        "ul. Janiszewskiego 8"
+    ],
+    "aboutUsWhatIsTitle": "WHAT IS LINUX SESSION?",
+    "aboutUsWhatIsText": "Linux Session is the biggest conference about Open Source solutions and latest trends in Linux-based systems",
+    "howItLooksLiketext": "Entry is free. Every year enthusiasts and professionals visit us to learn and share their knowledge",
+    "howItLooksLikeTitle": "How does it work?",
+    "ourGoalText": "We want to promote the idea of free software. We know that open source if getting more and more popular in commercial solutions and we want to promote it even more",
+    "ourGoalTitle": "Why?"
+}

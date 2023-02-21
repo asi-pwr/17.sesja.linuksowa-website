@@ -4,7 +4,7 @@ import coTo from "../assets/aboutUs/coTo.png";
 import jakWyglada from "../assets/aboutUs/jakWyglada.png";
 import { useTheme } from "@chakra-ui/react";
 import ImageItem from "@/components/ImageItem";
-import useTranslation from "next-translate/useTranslation";
+import { useTranslation } from "next-export-i18n";
 
 const AboutUs = () => {
   const theme = useTheme();

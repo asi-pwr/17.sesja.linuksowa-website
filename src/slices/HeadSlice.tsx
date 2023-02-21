@@ -8,7 +8,7 @@ import { useTheme } from "@chakra-ui/react";
 import { Show } from "@chakra-ui/react";
 import DefaultButton from "@/components/DefaultButton";
 import config from "../config";
-import useTranslation from "next-translate/useTranslation";
+import { useTranslation } from "next-export-i18n";
 import Lang from "@/components/Lang";
 
 const HeadContainerStyle: StyleProps = {

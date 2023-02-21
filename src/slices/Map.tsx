@@ -2,7 +2,7 @@ import { useMemo } from "react";
 import dynamic from "next/dynamic";
 import { Flex, Heading, Box } from "@chakra-ui/react";
 import { useTheme } from "@chakra-ui/react";
-import useTranslation from "next-translate/useTranslation";
+import { useTranslation } from "next-export-i18n";
 
 const Space = ({ text }: { text?: string }) => {
   const theme = useTheme();

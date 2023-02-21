@@ -10,7 +10,7 @@ import {
 } from "@chakra-ui/react";
 import DefaultButton from "@/components/DefaultButton";
 import { FormEvent, useState } from "react";
-import useTranslation from "next-translate/useTranslation";
+import { useTranslation } from "next-export-i18n";
 
 const Contact = ({ sendMessageUrl }: { sendMessageUrl: string }) => {
   const [name, setName] = useState<string | undefined>(undefined);

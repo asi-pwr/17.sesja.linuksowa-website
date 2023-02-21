@@ -9,7 +9,7 @@ import {
   Link,
   AspectRatio,
 } from "@chakra-ui/react";
-import useTranslation from "next-translate/useTranslation";
+import { useTranslation } from "next-export-i18n";
 
 const PreviousEdition = () => {
   const { t } = useTranslation("common");

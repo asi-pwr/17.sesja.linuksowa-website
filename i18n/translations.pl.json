@@ -1,0 +1,31 @@
+{
+    "send": "Wyślij!",
+    "formName": "Imię i nazwisko",
+    "writeToUs": "Napisz do nas!",
+    "email": "email",
+    "message": "Wiadomość",
+    "formPlaceholder": "Pytania? Sugestie? Wpisz je tutaj!",
+    "messageSendSuccess": "Wiadomość wysłana!",
+    "messageSendFailed": "Coś poszło nie tak. Napisz na kontakt@sesja.linuksowa.pl",
+    "seeLastEdition": "Zobacz poprzednie prelekcje",
+    "goToRecordings": "PRZEJDŹ DO NAGRAŃ",
+    "ytPlaylist": "https://www.youtube-nocookie.com/embed/videoseries?list=PLTvZBPQxCI8GGvYbi-irgyNAptXKWXJWl",
+    "youtubeIframeTitle": "16 Sesja Linuksowa",
+    "previousEditionUrl": "https://16.sesja.linuksowa.pl/",
+    "eventLocation": "Miejsce wydarzenia",
+    "title": "17 Sesja Linuksowa",
+    "eventDate": " 22-23 kwietnia 2023 Wrocław, Polska",
+    "seeAgenda": "ZOBACZ AGENDĘ",
+    "eventLocationDetails": [
+        "Politechnika Wrocławska",
+        "Budynek D-20",
+        "Centrum Kongresowe",
+        "ul. Janiszewskiego 8"
+    ],
+    "aboutUsWhatIsTitle": "CZYM JEST SESJA?",
+    "aboutUsWhatIsText": "Jest to największa w Polsce konferencja poświęcona rozwiązaniom Open Source oraz najnowszym trendom w systemach z rodziny GNU/Linux.",
+    "howItLooksLiketext": "Udział w Sesji jest darmowy. Co roku na konferencji spotykają się pasjonaci informatyki z całej Polski, aby pogłębić swoją wiedzę i podjąć dyskusję w interesujących ich dziedzinach.",
+    "howItLooksLikeTitle": "Jak to wygląda?",
+    "ourGoalText": "Naszym celem jest promowanie idei wolnego oprogramowania. Wiemy, że Open Source jest coraz bardziej popularny w rozwiązaniach komercyjnych, jak i domowych. I zależy nam na jego popularyzacji.",
+    "ourGoalTitle": "Nasz cel"
+}
